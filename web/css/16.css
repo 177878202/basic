@@ -1,0 +1,47 @@
+.table {border-collapse: collapse;
+    /*border:1px solid  #8B3A3A;*/
+    margin:0 auto;
+    padding: 0;
+    /*border-top: 1px solid #8B3A3A;*/
+    border-left:  1px solid #8B3A3A;
+}
+
+.r1,.r2,.r3,.r4{
+    /*background:url(../images/title-16bj-1.png) repeat-x center center;*/
+    background:url(../images/title-16bj-1.png) repeat-x center center;
+    height:22px;
+    line-height:22px;
+    /*color:#FFF;*/
+}
+
+.r00,.r01,.r02,.r10,.r11,.r12,.r13,.r14,.r15,.r16,.r17,.r18,.r19,.r110,.r111,.r112{
+    /*background:url(../images/title-16bj-1.png) repeat-x center center;*/
+    background:#FFE4E1;
+    height:20px;
+    line-height:20px;
+    /*color:#FFF;*/
+}
+.r5{
+    /*background:url(../images/title-16bj-2.png) repeat-x center center;*/
+    background:#EEB4B4;
+    height:22px;
+    line-height:22px;
+    /*color:#FFF;*/
+}
+
+
+.table  tbody  tr  td ,.table  thead  tr  td {
+    height:20px;
+    line-height:20px;
+    white-space: nowrap;
+    font-size: 12px;
+    /*color:#FFF;*/
+    text-align: center;
+    margin:0 auto;
+    width:19px;
+    padding: 0;
+    /*border-top: 1px solid #8B3A3A;*/
+    border-top: 1px solid #8B3A3A;
+    border-bottom: 1px solid #8B3A3A;
+    border-right: 1px solid #8B3A3A;
+}

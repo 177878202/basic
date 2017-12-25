@@ -1,0 +1,79 @@
+
+.label-zst {}
+	.category-title {
+		font-size: 1.2em;
+		text-indent: 0.3em;
+		color: #555;
+		border-left: 3px solid #ff3333;		
+	}
+
+	.label-zst .label {
+		display: block;
+		float: left;
+		margin: 5px 3px;
+		padding: 0.5em;
+		min-width: 5em;	
+	}
+
+
+.info-warp {
+	margin-top: 7em;
+	
+}
+
+	.info-box {
+		margin: 1em; 
+		height: 100%;
+		text-align: center;
+		color: #fff;
+		border-radius: 0.2em;
+		background: #05BDBF;
+	}
+
+	.info-box-icon {
+		float: left;
+		width: 20%;		
+		height: 3em;
+		line-height: 3em;
+		font-size: 2em;
+		background:rgba(0,0,0,0.2);
+	}
+
+
+
+.warp-guide {}
+
+	.warp-guide .breadcrumb {
+		border-radius: 5rem;
+	  	background: #fff
+	 
+	}
+
+	.warp-guide  .badge{
+		border-radius: 5rem;
+	  	background: #d2d2d2
+	 
+	}
+
+
+	.warp-guide .active .badge{
+		border-radius: 5rem;
+	  	background:  #11c2c2;
+	 
+	}
+
+	.warp-guide a:visited .badge{
+		border-radius: 5rem;
+	  	background:  #11c2c2;
+	 
+	}
+
+
+
+.instruction li{
+		text-indent:1em; 
+		
+}
+
+
+
